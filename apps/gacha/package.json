@@ -1,0 +1,13 @@
+{
+  "name": "riot-boilerplate",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "start": "riot -w tags/ bundle.js"
+  },
+  "author": "pompopo",
+  "license": "MIT",
+  "devDependencies": {
+    "riot": "^3.2.1"
+  }
+}
